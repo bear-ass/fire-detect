@@ -1,0 +1,15 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+requests==2.31.0
+pandas==2.1.4
+celery==5.3.4
+redis==5.0.1
+python-dotenv==1.0.0
+mysql-connector-python==8.2.0  # 或使用 pymysql
+pymysql==1.1.0  # 添加pymysql支持
+apscheduler==3.10.4
+folium==0.15.1
+beautifulsoup4==4.12.2  # 网页解析（如果需要）
+schedule==1.2.0  # 定时任务
